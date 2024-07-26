@@ -5,7 +5,7 @@ import "./FinanceManagement.sol";
 import "./EmployeeManagement.sol";
 import "./HistoryManagement.sol";
 
-contract BlockPay {
+contract GardenPay {
     address public owner;
     FinanceManagement public financeManagement;
     EmployeeManagement public employeeManagement;
