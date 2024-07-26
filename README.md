@@ -7,7 +7,7 @@ Garden Pay is a groundbreaking payroll solution that leverages blockchain techno
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Team](#team)
+- [Team](#team-wreakverse)
 - [Contact](#contact)
 
 ## Features
@@ -38,10 +38,11 @@ cd GardenPay
    Create a `.env` file in the root directory and add the following:
 
 ```DB_URI_DEV=your_monodb_uri
-PRIVATE_KEY=your_private_key MONGODB_URI=your_mongodb_uri
 JWT_SECRET_KEY=your_key
-MEMONICS=your_memonics
+PRIVATE_KEY=your_private_key MONGODB_URI=your_mongodb_uri
 WALLET_ADDRESS=your_wallet_address
+MEMONICS=your_memonics
+
 IS_PROD=false
 ```
 3. **Start backend server**
@@ -73,5 +74,5 @@ This project is licensed under the MIT License - see the [LICENSE]
 
 **Hacker House Goa 2024**
 - **Selvendran S**
-- **Jayasudhan**
+- **Jayasudhan M**
 - **Manoj S**
