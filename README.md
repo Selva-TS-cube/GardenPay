@@ -5,7 +5,6 @@ Garden Pay is a groundbreaking payroll solution that leverages blockchain techno
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
-- [Usage](#usage)
 - [License](#license)
 - [Team](#team-wreakverse)
 - [Contact](#contact)
